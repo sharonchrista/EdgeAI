@@ -53,12 +53,4 @@
 37. Six-board industrial monitoring — reference versus five targets, replay, triage.
 38. Cross-device deployment and production checks — Jetson AGX Orin/IQ-9075, hashes, schema, fail-closed behavior.
 
-## Completion and freeze gate
-
-1. Board-specific workspace and correct wiring/interfaces where applicable.
-2. Step-by-step interactive run with adjustable inputs, intermediate states, and failure cases.
-3. Runnable code, setup instructions, sample data, and expected output.
-4. Verified calculations and clear labels for simulation versus measured results.
-5. Student task, assessment questions, and reproducible result sheet.
-
 Sources: [OpenVINO installation](https://docs.openvino.ai/2025/get-started/install-openvino/install-openvino-pip.html), [Open Model Zoo model](https://github.com/openvinotoolkit/open_model_zoo/tree/master/models/intel/face-detection-retail-0004), [Raspberry Pi camera software](https://www.raspberrypi.com/documentation/computers/camera_software.html).
