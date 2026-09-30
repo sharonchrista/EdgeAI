@@ -1,4 +1,4 @@
-# Edge AI Virtual Lab — agreed experiment sequence
+# Edge AI Projects
 
 ## A. Sensing and foundations
 
