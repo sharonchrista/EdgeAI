@@ -1,0 +1,12 @@
+@"
+*.keras
+*.tflite
+*.db
+*.db-journal
+*.pkl.gz
+results/
+__pycache__/
+*.pyc
+.venv/
+edgeai_lab/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
