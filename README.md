@@ -1,2 +1,1 @@
-# Edge AI Virtual Lab
-
+# Edge AI
