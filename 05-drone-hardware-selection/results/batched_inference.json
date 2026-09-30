@@ -1,0 +1,30 @@
+[
+  {
+    "batch_size": 1,
+    "mean_batch_latency_ms": 47.268,
+    "mean_per_image_latency_ms": 47.268,
+    "throughput_ips": 21.16,
+    "throughput_per_watt": 5.29
+  },
+  {
+    "batch_size": 2,
+    "mean_batch_latency_ms": 95.9797,
+    "mean_per_image_latency_ms": 47.9899,
+    "throughput_ips": 20.84,
+    "throughput_per_watt": 5.21
+  },
+  {
+    "batch_size": 4,
+    "mean_batch_latency_ms": 187.5471,
+    "mean_per_image_latency_ms": 46.8868,
+    "throughput_ips": 21.33,
+    "throughput_per_watt": 5.33
+  },
+  {
+    "batch_size": 8,
+    "mean_batch_latency_ms": 398.3206,
+    "mean_per_image_latency_ms": 49.7901,
+    "throughput_ips": 20.08,
+    "throughput_per_watt": 5.02
+  }
+]

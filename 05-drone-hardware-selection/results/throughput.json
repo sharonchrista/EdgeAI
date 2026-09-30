@@ -1,0 +1,38 @@
+[
+  {
+    "workers": 1,
+    "threads_each": 1,
+    "total_infs": 30,
+    "wall_time_s": 6.024,
+    "throughput_ips": 4.98,
+    "mean_lat_ms": 35.17,
+    "p95_lat_ms": 36.37
+  },
+  {
+    "workers": 2,
+    "threads_each": 1,
+    "total_infs": 60,
+    "wall_time_s": 6.056,
+    "throughput_ips": 9.91,
+    "mean_lat_ms": 35.03,
+    "p95_lat_ms": 36.14
+  },
+  {
+    "workers": 4,
+    "threads_each": 1,
+    "total_infs": 120,
+    "wall_time_s": 6.446,
+    "throughput_ips": 18.62,
+    "mean_lat_ms": 35.78,
+    "p95_lat_ms": 38.56
+  },
+  {
+    "workers": 8,
+    "threads_each": 1,
+    "total_infs": 240,
+    "wall_time_s": 7.991,
+    "throughput_ips": 30.03,
+    "mean_lat_ms": 42.1,
+    "p95_lat_ms": 55.2
+  }
+]

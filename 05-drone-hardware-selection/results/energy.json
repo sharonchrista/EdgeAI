@@ -1,0 +1,29 @@
+[
+  {
+    "tier": "MCU-tier (1 thread)",
+    "threads": 1,
+    "power_w": 0.5,
+    "mean_ms": 35.11,
+    "energy_mj": 17.557,
+    "infs_per_wh": 205051.0,
+    "cpu_pct": 0.0
+  },
+  {
+    "tier": "Gateway-tier (4 thr)",
+    "threads": 4,
+    "power_w": 4.0,
+    "mean_ms": 15.79,
+    "energy_mj": 63.174,
+    "infs_per_wh": 56986.0,
+    "cpu_pct": 0.0
+  },
+  {
+    "tier": "Edge-server (8 thr)",
+    "threads": 8,
+    "power_w": 25.0,
+    "mean_ms": 71.03,
+    "energy_mj": 1775.841,
+    "infs_per_wh": 2027.0,
+    "cpu_pct": 7.7
+  }
+]
